@@ -14,14 +14,29 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#280](https://github.com/alexellis/arkade/issues/280) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 💪 Opened PR [#280](https://github.com/alexellis/arkade/pull/280) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🗣 Commented on [#274](https://github.com/alexellis/arkade/issues/274) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 🗣 Commented on [#274](https://github.com/alexellis/arkade/issues/274) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 🗣 Commented on [#274](https://github.com/alexellis/arkade/issues/274) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build Console Application in Golang](https://blog.nitishkumarsingh.xyz/2020-10-03-build-console-application-in-golang/)
+- [Django Production Deployment on Apache Server](https://blog.nitishkumarsingh.xyz/2020-09-02-django-production-deployment-using-apache-server-and-docker/)
+- [Cloud Native development with Scaffold](https://blog.nitishkumarsingh.xyz/2020-09-08-cloud-native-development-with-scaffold/)
+- [WebSocket in Django Channel](https://blog.nitishkumarsingh.xyz/2019-10-25-websocker-in-django-channel/)
+- [Spring Cloud Gateway using Kubernetes Service Discovery](https://blog.nitishkumarsingh.xyz/2019-10-11-spring-cloud-gateway-using-kubernetes-service-discovery/)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [Answer by Nitishkumar Singh for Cannot run slick queries on postgis with slick-pg](https://stackoverflow.com/questions/63637096/cannot-run-slick-queries-on-postgis-with-slick-pg/64260108#64260108)
+- [Answer by Nitishkumar Singh for How do I setup rust toolchain for orjson python library build in an alpine docker image?](https://stackoverflow.com/questions/62207959/how-do-i-setup-rust-toolchain-for-orjson-python-library-build-in-an-alpine-docke/62400444#62400444)
+- [Answer by Nitishkumar Singh for Spring cloud gateway configuration issue in Kubernetes service discovery](https://stackoverflow.com/questions/58366684/spring-cloud-gateway-configuration-issue-in-kubernetes-service-discovery/58470819#58470819)
+- [Spring cloud gateway configuration issue in Kubernetes service discovery](https://stackoverflow.com/questions/58366684/spring-cloud-gateway-configuration-issue-in-kubernetes-service-discovery)
+- [Answer by Nitishkumar Singh for What is the size of an array after redefining its variable?](https://stackoverflow.com/questions/58260393/what-is-the-size-of-an-array-after-redefining-its-variable/58260462#58260462)
 <!-- STACKOVERFLOW:END -->
 
 ### Connect With Me
