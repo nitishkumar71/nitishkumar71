@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/openfaas/store/issues/133) in [openfaas/store](https://github.com/openfaas/store)
-2. 🗣 Commented on [#133](https://github.com/openfaas/store/issues/133) in [openfaas/store](https://github.com/openfaas/store)
-3. 🎉 Merged PR [#4](https://github.com/nitishkumar71/blog/pull/4) in [nitishkumar71/blog](https://github.com/nitishkumar71/blog)
-4. 💪 Opened PR [#133](https://github.com/openfaas/store/pull/133) in [openfaas/store](https://github.com/openfaas/store)
-5. 🗣 Commented on [#280](https://github.com/alexellis/arkade/issues/280) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#292](https://github.com/alexellis/arkade/issues/292) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 💪 Opened PR [#292](https://github.com/alexellis/arkade/pull/292) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❗️ Opened issue [#291](https://github.com/alexellis/arkade/issues/291) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 💪 Opened PR [#235](https://github.com/openfaas/templates/pull/235) in [openfaas/templates](https://github.com/openfaas/templates)
+5. 🗣 Commented on [#133](https://github.com/openfaas/store/issues/133) in [openfaas/store](https://github.com/openfaas/store)
 <!--END_SECTION:activity-->
 
 ### Blog posts
