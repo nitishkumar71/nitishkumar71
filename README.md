@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#238](https://github.com/openfaas/templates/pull/238) in [openfaas/templates](https://github.com/openfaas/templates)
-2. ❗️ Opened issue [#237](https://github.com/openfaas/templates/issues/237) in [openfaas/templates](https://github.com/openfaas/templates)
-3. ❗️ Opened issue [#236](https://github.com/openfaas/templates/issues/236) in [openfaas/templates](https://github.com/openfaas/templates)
-4. 💪 Opened PR [#296](https://github.com/alexellis/arkade/pull/296) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. ❗️ Opened issue [#294](https://github.com/alexellis/arkade/issues/294) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. ❌ Closed PR [#238](https://github.com/openfaas/templates/pull/238) in [openfaas/templates](https://github.com/openfaas/templates)
+2. 💪 Opened PR [#238](https://github.com/openfaas/templates/pull/238) in [openfaas/templates](https://github.com/openfaas/templates)
+3. ❗️ Opened issue [#237](https://github.com/openfaas/templates/issues/237) in [openfaas/templates](https://github.com/openfaas/templates)
+4. ❗️ Opened issue [#236](https://github.com/openfaas/templates/issues/236) in [openfaas/templates](https://github.com/openfaas/templates)
+5. 💪 Opened PR [#296](https://github.com/alexellis/arkade/pull/296) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
