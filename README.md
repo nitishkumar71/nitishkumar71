@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/alexellis/homebrew-alexellis/pull/4) in [alexellis/homebrew-alexellis](https://github.com/alexellis/homebrew-alexellis)
-2. 💪 Opened PR [#3](https://github.com/alexellis/homebrew-alexellis/pull/3) in [alexellis/homebrew-alexellis](https://github.com/alexellis/homebrew-alexellis)
-3. ❌ Closed PR [#238](https://github.com/openfaas/templates/pull/238) in [openfaas/templates](https://github.com/openfaas/templates)
-4. 💪 Opened PR [#238](https://github.com/openfaas/templates/pull/238) in [openfaas/templates](https://github.com/openfaas/templates)
-5. ❗️ Opened issue [#237](https://github.com/openfaas/templates/issues/237) in [openfaas/templates](https://github.com/openfaas/templates)
+1. 🗣 Commented on [#4](https://github.com/alexellis/homebrew-alexellis/issues/4) in [alexellis/homebrew-alexellis](https://github.com/alexellis/homebrew-alexellis)
+2. 💪 Opened PR [#4](https://github.com/alexellis/homebrew-alexellis/pull/4) in [alexellis/homebrew-alexellis](https://github.com/alexellis/homebrew-alexellis)
+3. 💪 Opened PR [#3](https://github.com/alexellis/homebrew-alexellis/pull/3) in [alexellis/homebrew-alexellis](https://github.com/alexellis/homebrew-alexellis)
+4. ❌ Closed PR [#238](https://github.com/openfaas/templates/pull/238) in [openfaas/templates](https://github.com/openfaas/templates)
+5. 💪 Opened PR [#238](https://github.com/openfaas/templates/pull/238) in [openfaas/templates](https://github.com/openfaas/templates)
 <!--END_SECTION:activity-->
 
 ### Blog posts
