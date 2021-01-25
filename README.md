@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#133](https://github.com/openfaas/store/issues/133) in [openfaas/store](https://github.com/openfaas/store)
-2. 🗣 Commented on [#296](https://github.com/alexellis/arkade/issues/296) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 💪 Opened PR [#307](https://github.com/alexellis/arkade/pull/307) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. ❗️ Opened issue [#306](https://github.com/alexellis/arkade/issues/306) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 🗣 Commented on [#4](https://github.com/alexellis/homebrew-alexellis/issues/4) in [alexellis/homebrew-alexellis](https://github.com/alexellis/homebrew-alexellis)
+1. 🗣 Commented on [#314](https://github.com/alexellis/arkade/issues/314) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 🗣 Commented on [#314](https://github.com/alexellis/arkade/issues/314) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❗️ Opened issue [#314](https://github.com/alexellis/arkade/issues/314) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 🗣 Commented on [#4](https://github.com/alexellis/homebrew-alexellis/issues/4) in [alexellis/homebrew-alexellis](https://github.com/alexellis/homebrew-alexellis)
+5. 🗣 Commented on [#133](https://github.com/openfaas/store/issues/133) in [openfaas/store](https://github.com/openfaas/store)
 <!--END_SECTION:activity-->
 
 ### Blog posts
