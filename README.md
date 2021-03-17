@@ -15,10 +15,10 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 ### Github Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#355](https://github.com/alexellis/arkade/issues/355) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 💪 Opened PR [#355](https://github.com/alexellis/arkade/pull/355) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. ❗️ Opened issue [#354](https://github.com/alexellis/arkade/issues/354) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 💪 Opened PR [#870](https://github.com/openfaas/faas-cli/pull/870) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
-5. 🗣 Commented on [#350](https://github.com/alexellis/arkade/issues/350) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 🗣 Commented on [#355](https://github.com/alexellis/arkade/issues/355) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 💪 Opened PR [#355](https://github.com/alexellis/arkade/pull/355) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. ❗️ Opened issue [#354](https://github.com/alexellis/arkade/issues/354) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 💪 Opened PR [#870](https://github.com/openfaas/faas-cli/pull/870) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
 <!--END_SECTION:activity-->
 
 ### Blog posts
