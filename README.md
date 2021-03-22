@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#355](https://github.com/alexellis/arkade/issues/355) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#61](https://github.com/openfaas/certifier/issues/61) in [openfaas/certifier](https://github.com/openfaas/certifier)
 2. 🗣 Commented on [#355](https://github.com/alexellis/arkade/issues/355) in [alexellis/arkade](https://github.com/alexellis/arkade)
 3. 🗣 Commented on [#355](https://github.com/alexellis/arkade/issues/355) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 💪 Opened PR [#355](https://github.com/alexellis/arkade/pull/355) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. ❗️ Opened issue [#354](https://github.com/alexellis/arkade/issues/354) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 🗣 Commented on [#355](https://github.com/alexellis/arkade/issues/355) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 💪 Opened PR [#355](https://github.com/alexellis/arkade/pull/355) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
