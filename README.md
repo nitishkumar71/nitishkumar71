@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#403](https://github.com/alexellis/arkade/issues/403) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 🗣 Commented on [#71](https://github.com/openfaas/certifier/issues/71) in [openfaas/certifier](https://github.com/openfaas/certifier)
+1. 💪 Opened PR [#73](https://github.com/openfaas/certifier/pull/73) in [openfaas/certifier](https://github.com/openfaas/certifier)
+2. 🗣 Commented on [#403](https://github.com/alexellis/arkade/issues/403) in [alexellis/arkade](https://github.com/alexellis/arkade)
 3. 🗣 Commented on [#71](https://github.com/openfaas/certifier/issues/71) in [openfaas/certifier](https://github.com/openfaas/certifier)
-4. 🗣 Commented on [#61](https://github.com/openfaas/certifier/issues/61) in [openfaas/certifier](https://github.com/openfaas/certifier)
-5. 🗣 Commented on [#66](https://github.com/openfaas/certifier/issues/66) in [openfaas/certifier](https://github.com/openfaas/certifier)
+4. 🗣 Commented on [#71](https://github.com/openfaas/certifier/issues/71) in [openfaas/certifier](https://github.com/openfaas/certifier)
+5. 🗣 Commented on [#61](https://github.com/openfaas/certifier/issues/61) in [openfaas/certifier](https://github.com/openfaas/certifier)
 <!--END_SECTION:activity-->
 
 ### Blog posts
