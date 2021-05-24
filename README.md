@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#404](https://github.com/alexellis/arkade/issues/404) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 💪 Opened PR [#404](https://github.com/alexellis/arkade/pull/404) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 💪 Opened PR [#235](https://github.com/openfaas/openfaas.github.io/pull/235) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-4. 💪 Opened PR [#73](https://github.com/openfaas/certifier/pull/73) in [openfaas/certifier](https://github.com/openfaas/certifier)
-5. 🗣 Commented on [#403](https://github.com/alexellis/arkade/issues/403) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#411](https://github.com/alexellis/arkade/issues/411) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 🗣 Commented on [#404](https://github.com/alexellis/arkade/issues/404) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 💪 Opened PR [#404](https://github.com/alexellis/arkade/pull/404) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 💪 Opened PR [#235](https://github.com/openfaas/openfaas.github.io/pull/235) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+5. 💪 Opened PR [#73](https://github.com/openfaas/certifier/pull/73) in [openfaas/certifier](https://github.com/openfaas/certifier)
 <!--END_SECTION:activity-->
 
 ### Blog posts
