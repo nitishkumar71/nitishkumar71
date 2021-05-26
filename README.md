@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#408](https://github.com/alexellis/arkade/issues/408) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 🗣 Commented on [#411](https://github.com/alexellis/arkade/issues/411) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 🗣 Commented on [#411](https://github.com/alexellis/arkade/issues/411) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 🗣 Commented on [#404](https://github.com/alexellis/arkade/issues/404) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 💪 Opened PR [#404](https://github.com/alexellis/arkade/pull/404) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 💪 Opened PR [#417](https://github.com/alexellis/arkade/pull/417) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 💪 Opened PR [#416](https://github.com/alexellis/arkade/pull/416) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🗣 Commented on [#408](https://github.com/alexellis/arkade/issues/408) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 🗣 Commented on [#411](https://github.com/alexellis/arkade/issues/411) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 🗣 Commented on [#411](https://github.com/alexellis/arkade/issues/411) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
