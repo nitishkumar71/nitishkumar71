@@ -14,9 +14,9 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#206](https://github.com/openfaas/faasd/issues/206) in [openfaas/faasd](https://github.com/openfaas/faasd)
-2. 🗣 Commented on [#1](https://github.com/alexellis/hmac/issues/1) in [alexellis/hmac](https://github.com/alexellis/hmac)
-3. 🗣 Commented on [#78](https://github.com/openfaas/certifier/issues/78) in [openfaas/certifier](https://github.com/openfaas/certifier)
+1. 🗣 Commented on [#81](https://github.com/openfaas/certifier/issues/81) in [openfaas/certifier](https://github.com/openfaas/certifier)
+2. 🗣 Commented on [#206](https://github.com/openfaas/faasd/issues/206) in [openfaas/faasd](https://github.com/openfaas/faasd)
+3. 🗣 Commented on [#1](https://github.com/alexellis/hmac/issues/1) in [alexellis/hmac](https://github.com/alexellis/hmac)
 4. 🗣 Commented on [#78](https://github.com/openfaas/certifier/issues/78) in [openfaas/certifier](https://github.com/openfaas/certifier)
 5. 🗣 Commented on [#78](https://github.com/openfaas/certifier/issues/78) in [openfaas/certifier](https://github.com/openfaas/certifier)
 <!--END_SECTION:activity-->
