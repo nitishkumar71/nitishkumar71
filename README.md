@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#233](https://github.com/openfaas/faasd/issues/233) in [openfaas/faasd](https://github.com/openfaas/faasd)
-2. 🗣 Commented on [#221](https://github.com/openfaas/faasd/issues/221) in [openfaas/faasd](https://github.com/openfaas/faasd)
-3. 💪 Opened PR [#233](https://github.com/openfaas/faasd/pull/233) in [openfaas/faasd](https://github.com/openfaas/faasd)
-4. 🗣 Commented on [#232](https://github.com/openfaas/faasd/issues/232) in [openfaas/faasd](https://github.com/openfaas/faasd)
-5. ❗️ Opened issue [#232](https://github.com/openfaas/faasd/issues/232) in [openfaas/faasd](https://github.com/openfaas/faasd)
+1. ❗️ Opened issue [#239](https://github.com/openfaas/faasd/issues/239) in [openfaas/faasd](https://github.com/openfaas/faasd)
+2. 🗣 Commented on [#233](https://github.com/openfaas/faasd/issues/233) in [openfaas/faasd](https://github.com/openfaas/faasd)
+3. 🗣 Commented on [#221](https://github.com/openfaas/faasd/issues/221) in [openfaas/faasd](https://github.com/openfaas/faasd)
+4. 💪 Opened PR [#233](https://github.com/openfaas/faasd/pull/233) in [openfaas/faasd](https://github.com/openfaas/faasd)
+5. 🗣 Commented on [#232](https://github.com/openfaas/faasd/issues/232) in [openfaas/faasd](https://github.com/openfaas/faasd)
 <!--END_SECTION:activity-->
 
 ### Blog posts
