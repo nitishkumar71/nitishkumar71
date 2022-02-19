@@ -15,10 +15,10 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 ### Github Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#264](https://github.com/openfaas/openfaas.github.io/issues/264) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-2. 🗣 Commented on [#909](https://github.com/openfaas/faas-netes/issues/909) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
-3. 💪 Opened PR [#264](https://github.com/openfaas/openfaas.github.io/pull/264) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-4. 💪 Opened PR [#902](https://github.com/openfaas/faas-netes/pull/902) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
-5. ❗️ Opened issue [#901](https://github.com/openfaas/faas-netes/issues/901) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
+2. 🗣 Commented on [#264](https://github.com/openfaas/openfaas.github.io/issues/264) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+3. 🗣 Commented on [#909](https://github.com/openfaas/faas-netes/issues/909) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
+4. 💪 Opened PR [#264](https://github.com/openfaas/openfaas.github.io/pull/264) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+5. 💪 Opened PR [#902](https://github.com/openfaas/faas-netes/pull/902) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
 <!--END_SECTION:activity-->
 
 ### Blog posts
