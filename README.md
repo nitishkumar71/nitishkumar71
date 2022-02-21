@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#264](https://github.com/openfaas/openfaas.github.io/issues/264) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-2. 🗣 Commented on [#264](https://github.com/openfaas/openfaas.github.io/issues/264) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-3. 🗣 Commented on [#909](https://github.com/openfaas/faas-netes/issues/909) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
-4. 💪 Opened PR [#264](https://github.com/openfaas/openfaas.github.io/pull/264) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
-5. 💪 Opened PR [#902](https://github.com/openfaas/faas-netes/pull/902) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
+1. 💪 Opened PR [#243](https://github.com/openfaas/faasd/pull/243) in [openfaas/faasd](https://github.com/openfaas/faasd)
+2. 💪 Opened PR [#284](https://github.com/openfaas/templates/pull/284) in [openfaas/templates](https://github.com/openfaas/templates)
+3. ❗️ Opened issue [#283](https://github.com/openfaas/templates/issues/283) in [openfaas/templates](https://github.com/openfaas/templates)
+4. 🗣 Commented on [#264](https://github.com/openfaas/openfaas.github.io/issues/264) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
+5. 🗣 Commented on [#264](https://github.com/openfaas/openfaas.github.io/issues/264) in [openfaas/openfaas.github.io](https://github.com/openfaas/openfaas.github.io)
 <!--END_SECTION:activity-->
 
 ### Blog posts
