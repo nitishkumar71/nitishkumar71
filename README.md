@@ -14,10 +14,10 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1008](https://github.com/openfaas/faas-netes/pull/1008) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
-2. ❗️ Opened issue [#1006](https://github.com/openfaas/faas-netes/issues/1006) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
-3. 🗣 Commented on [#26](https://github.com/openfaas/cron-connector/issues/26) in [openfaas/cron-connector](https://github.com/openfaas/cron-connector)
-4. 🗣 Commented on [#293](https://github.com/openfaas/faasd/issues/293) in [openfaas/faasd](https://github.com/openfaas/faasd)
+1. 🗣 Commented on [#1008](https://github.com/openfaas/faas-netes/issues/1008) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
+2. 💪 Opened PR [#1008](https://github.com/openfaas/faas-netes/pull/1008) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
+3. ❗️ Opened issue [#1006](https://github.com/openfaas/faas-netes/issues/1006) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
+4. 🗣 Commented on [#26](https://github.com/openfaas/cron-connector/issues/26) in [openfaas/cron-connector](https://github.com/openfaas/cron-connector)
 5. 🗣 Commented on [#293](https://github.com/openfaas/faasd/issues/293) in [openfaas/faasd](https://github.com/openfaas/faasd)
 <!--END_SECTION:activity-->
 
