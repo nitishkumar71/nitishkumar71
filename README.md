@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#756](https://github.com/alexellis/arkade/pull/756) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. ❗️ Opened issue [#755](https://github.com/alexellis/arkade/issues/755) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 🗣 Commented on [#1008](https://github.com/openfaas/faas-netes/issues/1008) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
-4. 💪 Opened PR [#1008](https://github.com/openfaas/faas-netes/pull/1008) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
-5. ❗️ Opened issue [#1006](https://github.com/openfaas/faas-netes/issues/1006) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
+1. 💪 Opened PR [#27](https://github.com/openfaas/cron-connector/pull/27) in [openfaas/cron-connector](https://github.com/openfaas/cron-connector)
+2. 💪 Opened PR [#756](https://github.com/alexellis/arkade/pull/756) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❗️ Opened issue [#755](https://github.com/alexellis/arkade/issues/755) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 🗣 Commented on [#1008](https://github.com/openfaas/faas-netes/issues/1008) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
+5. 💪 Opened PR [#1008](https://github.com/openfaas/faas-netes/pull/1008) in [openfaas/faas-netes](https://github.com/openfaas/faas-netes)
 <!--END_SECTION:activity-->
 
 ### Blog posts
