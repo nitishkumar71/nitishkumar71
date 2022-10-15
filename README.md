@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#27](https://github.com/openfaas/cron-connector/issues/27) in [openfaas/cron-connector](https://github.com/openfaas/cron-connector)
-2. 🗣 Commented on [#304](https://github.com/openfaas/faasd/issues/304) in [openfaas/faasd](https://github.com/openfaas/faasd)
-3. 💪 Opened PR [#304](https://github.com/openfaas/faasd/pull/304) in [openfaas/faasd](https://github.com/openfaas/faasd)
-4. 🗣 Commented on [#756](https://github.com/alexellis/arkade/issues/756) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 💪 Opened PR [#27](https://github.com/openfaas/cron-connector/pull/27) in [openfaas/cron-connector](https://github.com/openfaas/cron-connector)
+1. 🗣 Commented on [#781](https://github.com/alexellis/arkade/issues/781) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 🗣 Commented on [#27](https://github.com/openfaas/cron-connector/issues/27) in [openfaas/cron-connector](https://github.com/openfaas/cron-connector)
+3. 🗣 Commented on [#304](https://github.com/openfaas/faasd/issues/304) in [openfaas/faasd](https://github.com/openfaas/faasd)
+4. 💪 Opened PR [#304](https://github.com/openfaas/faasd/pull/304) in [openfaas/faasd](https://github.com/openfaas/faasd)
+5. 🗣 Commented on [#756](https://github.com/alexellis/arkade/issues/756) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
