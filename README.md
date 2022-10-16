@@ -25,9 +25,9 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 <!-- BLOG-POST-LIST:START -->
 - [Build Console Application in Golang](https://blog.nitishkumarsingh.xyz/2020-10-03-build-console-application-in-golang/)
 - [Django Production Deployment on Apache Server](https://blog.nitishkumarsingh.xyz/2020-09-02-django-production-deployment-using-apache-server-and-docker/)
-- [Cloud Native development with Scaffold](https://blog.nitishkumarsingh.xyz/2020-09-08-cloud-native-development-with-scaffold/)
 - [Spring Cloud Gateway using Kubernetes Service Discovery](https://blog.nitishkumarsingh.xyz/2019-10-11-spring-cloud-gateway-using-kubernetes-service-discovery/)
 - [Service Discovery in microservices](https://blog.nitishkumarsingh.xyz/2019-10-07-service-discvery-in-microservices/)
+- [Django app testing with unmanaged database](https://blog.nitishkumarsingh.xyz/2019-08-24-django-app-testing-with-unmanaged-database/)
 <!-- BLOG-POST-LIST:END -->
 
 ### StackOverflow Activity
