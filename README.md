@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#325](https://github.com/openfaas/docs/pull/325) in [openfaas/docs](https://github.com/openfaas/docs)
-2. ❗️ Opened issue [#324](https://github.com/openfaas/docs/issues/324) in [openfaas/docs](https://github.com/openfaas/docs)
-3. 💪 Opened PR [#820](https://github.com/alexellis/arkade/pull/820) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 💪 Opened PR [#6](https://github.com/alexellis/homebrew-alexellis/pull/6) in [alexellis/homebrew-alexellis](https://github.com/alexellis/homebrew-alexellis)
-5. 💪 Opened PR [#816](https://github.com/alexellis/arkade/pull/816) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 💪 Opened PR [#829](https://github.com/alexellis/arkade/pull/829) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. ❗️ Opened issue [#828](https://github.com/alexellis/arkade/issues/828) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 💪 Opened PR [#325](https://github.com/openfaas/docs/pull/325) in [openfaas/docs](https://github.com/openfaas/docs)
+4. ❗️ Opened issue [#324](https://github.com/openfaas/docs/issues/324) in [openfaas/docs](https://github.com/openfaas/docs)
+5. 💪 Opened PR [#820](https://github.com/alexellis/arkade/pull/820) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
