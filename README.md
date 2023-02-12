@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#315](https://github.com/openfaas/faasd/pull/315) in [openfaas/faasd](https://github.com/openfaas/faasd)
-2. 🗣 Commented on [#314](https://github.com/openfaas/faasd/issues/314) in [openfaas/faasd](https://github.com/openfaas/faasd)
-3. 💪 Opened PR [#1](https://github.com/ahmedbutt7121991/sample-functions-golang-catFacts/pull/1) in [ahmedbutt7121991/sample-functions-golang-catFacts](https://github.com/ahmedbutt7121991/sample-functions-golang-catFacts)
-4. 💪 Opened PR [#829](https://github.com/alexellis/arkade/pull/829) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. ❗️ Opened issue [#828](https://github.com/alexellis/arkade/issues/828) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#315](https://github.com/openfaas/faasd/issues/315) in [openfaas/faasd](https://github.com/openfaas/faasd)
+2. 💪 Opened PR [#315](https://github.com/openfaas/faasd/pull/315) in [openfaas/faasd](https://github.com/openfaas/faasd)
+3. 🗣 Commented on [#314](https://github.com/openfaas/faasd/issues/314) in [openfaas/faasd](https://github.com/openfaas/faasd)
+4. 💪 Opened PR [#1](https://github.com/ahmedbutt7121991/sample-functions-golang-catFacts/pull/1) in [ahmedbutt7121991/sample-functions-golang-catFacts](https://github.com/ahmedbutt7121991/sample-functions-golang-catFacts)
+5. 💪 Opened PR [#829](https://github.com/alexellis/arkade/pull/829) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
