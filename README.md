@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1788](https://github.com/openfaas/faas/pull/1788) in [openfaas/faas](https://github.com/openfaas/faas)
-2. ❗️ Opened issue [#1787](https://github.com/openfaas/faas/issues/1787) in [openfaas/faas](https://github.com/openfaas/faas)
-3. 🗣 Commented on [#887](https://github.com/alexellis/arkade/issues/887) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 💪 Opened PR [#897](https://github.com/alexellis/arkade/pull/897) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 💪 Opened PR [#1788](https://github.com/openfaas/faas/pull/1788) in [openfaas/faas](https://github.com/openfaas/faas)
+3. ❗️ Opened issue [#1787](https://github.com/openfaas/faas/issues/1787) in [openfaas/faas](https://github.com/openfaas/faas)
 4. 🗣 Commented on [#887](https://github.com/alexellis/arkade/issues/887) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 💪 Opened PR [#887](https://github.com/alexellis/arkade/pull/887) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 🗣 Commented on [#887](https://github.com/alexellis/arkade/issues/887) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
