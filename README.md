@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/nitishkumar71/gitlab-template/pull/1) in [nitishkumar71/gitlab-template](https://github.com/nitishkumar71/gitlab-template)
-2. 💪 Opened PR [#1](https://github.com/nitishkumar71/gitlab-template/pull/1) in [nitishkumar71/gitlab-template](https://github.com/nitishkumar71/gitlab-template)
-3. 🎉 Merged PR [#1](https://github.com/nitishkumar71/cto_test/pull/1) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-4. 💪 Opened PR [#1](https://github.com/nitishkumar71/cto_test/pull/1) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-5. 🎉 Merged PR [#3](https://github.com/nitishkumar71/cto_staging_test/pull/3) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+1. 🎉 Merged PR [#2](https://github.com/nitishkumar71/cto_test/pull/2) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+2. 💪 Opened PR [#2](https://github.com/nitishkumar71/cto_test/pull/2) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+3. 🎉 Merged PR [#1](https://github.com/nitishkumar71/gitlab-template/pull/1) in [nitishkumar71/gitlab-template](https://github.com/nitishkumar71/gitlab-template)
+4. 💪 Opened PR [#1](https://github.com/nitishkumar71/gitlab-template/pull/1) in [nitishkumar71/gitlab-template](https://github.com/nitishkumar71/gitlab-template)
+5. 🎉 Merged PR [#1](https://github.com/nitishkumar71/cto_test/pull/1) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
