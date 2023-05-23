@@ -15,10 +15,10 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 ### Github Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#911](https://github.com/alexellis/arkade/issues/911) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 🎉 Merged PR [#2](https://github.com/nitishkumar71/cto_test/pull/2) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-3. 💪 Opened PR [#2](https://github.com/nitishkumar71/cto_test/pull/2) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-4. 🎉 Merged PR [#1](https://github.com/nitishkumar71/gitlab-template/pull/1) in [nitishkumar71/gitlab-template](https://github.com/nitishkumar71/gitlab-template)
-5. 💪 Opened PR [#1](https://github.com/nitishkumar71/gitlab-template/pull/1) in [nitishkumar71/gitlab-template](https://github.com/nitishkumar71/gitlab-template)
+2. 🎉 Merged PR [#19](https://github.com/nitishkumar71/blog/pull/19) in [nitishkumar71/blog](https://github.com/nitishkumar71/blog)
+3. 🗣 Commented on [#911](https://github.com/alexellis/arkade/issues/911) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 🎉 Merged PR [#2](https://github.com/nitishkumar71/cto_test/pull/2) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+5. 💪 Opened PR [#2](https://github.com/nitishkumar71/cto_test/pull/2) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
