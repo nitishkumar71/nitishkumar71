@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#911](https://github.com/alexellis/arkade/issues/911) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 🎉 Merged PR [#19](https://github.com/nitishkumar71/blog/pull/19) in [nitishkumar71/blog](https://github.com/nitishkumar71/blog)
-3. 🗣 Commented on [#911](https://github.com/alexellis/arkade/issues/911) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 🎉 Merged PR [#2](https://github.com/nitishkumar71/cto_test/pull/2) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-5. 💪 Opened PR [#2](https://github.com/nitishkumar71/cto_test/pull/2) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+1. 🗣 Commented on [#897](https://github.com/alexellis/arkade/issues/897) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 🗣 Commented on [#897](https://github.com/alexellis/arkade/issues/897) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 🗣 Commented on [#897](https://github.com/alexellis/arkade/issues/897) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 🗣 Commented on [#911](https://github.com/alexellis/arkade/issues/911) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 🎉 Merged PR [#19](https://github.com/nitishkumar71/blog/pull/19) in [nitishkumar71/blog](https://github.com/nitishkumar71/blog)
 <!--END_SECTION:activity-->
 
 ### Blog posts
