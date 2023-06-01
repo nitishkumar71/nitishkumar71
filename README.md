@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/cto-ai/gitlab-template/pull/1) in [cto-ai/gitlab-template](https://github.com/cto-ai/gitlab-template)
-2. 🗣 Commented on [#897](https://github.com/alexellis/arkade/issues/897) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 🗣 Commented on [#897](https://github.com/alexellis/arkade/issues/897) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🎉 Merged PR [#1](https://github.com/nitishkumar71/bitbucket-pipe/pull/1) in [nitishkumar71/bitbucket-pipe](https://github.com/nitishkumar71/bitbucket-pipe)
+2. 💪 Opened PR [#1](https://github.com/nitishkumar71/bitbucket-pipe/pull/1) in [nitishkumar71/bitbucket-pipe](https://github.com/nitishkumar71/bitbucket-pipe)
+3. 💪 Opened PR [#1](https://github.com/cto-ai/gitlab-template/pull/1) in [cto-ai/gitlab-template](https://github.com/cto-ai/gitlab-template)
 4. 🗣 Commented on [#897](https://github.com/alexellis/arkade/issues/897) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. 🗣 Commented on [#911](https://github.com/alexellis/arkade/issues/911) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 🗣 Commented on [#897](https://github.com/alexellis/arkade/issues/897) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
