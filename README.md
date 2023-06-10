@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/cto-ai/events-orb/pull/7) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
-2. ❌ Closed PR [#6](https://github.com/cto-ai/events-orb/pull/6) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
-3. 💪 Opened PR [#6](https://github.com/cto-ai/events-orb/pull/6) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
-4. 🎉 Merged PR [#5](https://github.com/cto-ai/events-orb/pull/5) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
-5. 💪 Opened PR [#8](https://github.com/cto-ai/events-orb-example/pull/8) in [cto-ai/events-orb-example](https://github.com/cto-ai/events-orb-example)
+1. 💪 Opened PR [#17](https://github.com/cto-ai/action/pull/17) in [cto-ai/action](https://github.com/cto-ai/action)
+2. 💪 Opened PR [#7](https://github.com/cto-ai/events-orb/pull/7) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
+3. ❌ Closed PR [#6](https://github.com/cto-ai/events-orb/pull/6) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
+4. 💪 Opened PR [#6](https://github.com/cto-ai/events-orb/pull/6) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
+5. 🎉 Merged PR [#5](https://github.com/cto-ai/events-orb/pull/5) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
 <!--END_SECTION:activity-->
 
 ### Blog posts
