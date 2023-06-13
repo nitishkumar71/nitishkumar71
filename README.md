@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/cto-ai/events-orb/issues/7) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
-2. 🗣 Commented on [#17](https://github.com/cto-ai/action/issues/17) in [cto-ai/action](https://github.com/cto-ai/action)
-3. 💪 Opened PR [#17](https://github.com/cto-ai/action/pull/17) in [cto-ai/action](https://github.com/cto-ai/action)
-4. 💪 Opened PR [#7](https://github.com/cto-ai/events-orb/pull/7) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
-5. ❌ Closed PR [#6](https://github.com/cto-ai/events-orb/pull/6) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
+1. 💪 Opened PR [#3](https://github.com/cto-ai/events-gitlab-template/pull/3) in [cto-ai/events-gitlab-template](https://github.com/cto-ai/events-gitlab-template)
+2. 🗣 Commented on [#7](https://github.com/cto-ai/events-orb/issues/7) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
+3. 🗣 Commented on [#17](https://github.com/cto-ai/action/issues/17) in [cto-ai/action](https://github.com/cto-ai/action)
+4. 💪 Opened PR [#17](https://github.com/cto-ai/action/pull/17) in [cto-ai/action](https://github.com/cto-ai/action)
+5. 💪 Opened PR [#7](https://github.com/cto-ai/events-orb/pull/7) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
 <!--END_SECTION:activity-->
 
 ### Blog posts
