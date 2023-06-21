@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.2](https://github.com/v0.0.2) in [cto-ai/events-gitlab-template](https://github.com/cto-ai/events-gitlab-template)
-2. 🎉 Merged PR [#3](https://github.com/cto-ai/events-gitlab-template/pull/3) in [cto-ai/events-gitlab-template](https://github.com/cto-ai/events-gitlab-template)
-3. 🎉 Merged PR [#7](https://github.com/cto-ai/events-orb/pull/7) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
-4. 🎉 Merged PR [#8](https://github.com/cto-ai/events-orb-example/pull/8) in [cto-ai/events-orb-example](https://github.com/cto-ai/events-orb-example)
-5. 🎉 Merged PR [#17](https://github.com/cto-ai/action/pull/17) in [cto-ai/action](https://github.com/cto-ai/action)
+1. 🗣 Commented on [#331](https://github.com/openfaas/faasd/issues/331) in [openfaas/faasd](https://github.com/openfaas/faasd)
+2. 🚀 Published release [v0.0.2](https://github.com/v0.0.2) in [cto-ai/events-gitlab-template](https://github.com/cto-ai/events-gitlab-template)
+3. 🎉 Merged PR [#3](https://github.com/cto-ai/events-gitlab-template/pull/3) in [cto-ai/events-gitlab-template](https://github.com/cto-ai/events-gitlab-template)
+4. 🎉 Merged PR [#7](https://github.com/cto-ai/events-orb/pull/7) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
+5. 🎉 Merged PR [#8](https://github.com/cto-ai/events-orb-example/pull/8) in [cto-ai/events-orb-example](https://github.com/cto-ai/events-orb-example)
 <!--END_SECTION:activity-->
 
 ### Blog posts
