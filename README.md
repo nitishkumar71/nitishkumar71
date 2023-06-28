@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#331](https://github.com/openfaas/faasd/issues/331) in [openfaas/faasd](https://github.com/openfaas/faasd)
-2. 🚀 Published release [v0.0.2](https://github.com/v0.0.2) in [cto-ai/events-gitlab-template](https://github.com/cto-ai/events-gitlab-template)
-3. 🎉 Merged PR [#3](https://github.com/cto-ai/events-gitlab-template/pull/3) in [cto-ai/events-gitlab-template](https://github.com/cto-ai/events-gitlab-template)
-4. 🎉 Merged PR [#7](https://github.com/cto-ai/events-orb/pull/7) in [cto-ai/events-orb](https://github.com/cto-ai/events-orb)
-5. 🎉 Merged PR [#8](https://github.com/cto-ai/events-orb-example/pull/8) in [cto-ai/events-orb-example](https://github.com/cto-ai/events-orb-example)
+1. 🗣 Commented on [#333](https://github.com/openfaas/faasd/issues/333) in [openfaas/faasd](https://github.com/openfaas/faasd)
+2. 🗣 Commented on [#333](https://github.com/openfaas/faasd/issues/333) in [openfaas/faasd](https://github.com/openfaas/faasd)
+3. 🗣 Commented on [#333](https://github.com/openfaas/faasd/issues/333) in [openfaas/faasd](https://github.com/openfaas/faasd)
+4. 🗣 Commented on [#331](https://github.com/openfaas/faasd/issues/331) in [openfaas/faasd](https://github.com/openfaas/faasd)
+5. 🚀 Published release [v0.0.2](https://github.com/v0.0.2) in [cto-ai/events-gitlab-template](https://github.com/cto-ai/events-gitlab-template)
 <!--END_SECTION:activity-->
 
 ### Blog posts
