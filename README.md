@@ -15,10 +15,10 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 ### Github Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#968](https://github.com/openfaas/faas-cli/issues/968) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
-2. 🗣 Commented on [#333](https://github.com/openfaas/faasd/issues/333) in [openfaas/faasd](https://github.com/openfaas/faasd)
-3. 🗣 Commented on [#333](https://github.com/openfaas/faasd/issues/333) in [openfaas/faasd](https://github.com/openfaas/faasd)
+2. 🗣 Commented on [#968](https://github.com/openfaas/faas-cli/issues/968) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
+3. 🗣 Commented on [#968](https://github.com/openfaas/faas-cli/issues/968) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
 4. 🗣 Commented on [#333](https://github.com/openfaas/faasd/issues/333) in [openfaas/faasd](https://github.com/openfaas/faasd)
-5. 🗣 Commented on [#331](https://github.com/openfaas/faasd/issues/331) in [openfaas/faasd](https://github.com/openfaas/faasd)
+5. 🗣 Commented on [#333](https://github.com/openfaas/faasd/issues/333) in [openfaas/faasd](https://github.com/openfaas/faasd)
 <!--END_SECTION:activity-->
 
 ### Blog posts
