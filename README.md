@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#976](https://github.com/openfaas/faas-cli/pull/976#issuecomment-1722489119) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
-2. ❗ Opened issue [#977](https://github.com/openfaas/faas-cli/issues/977) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
-3. 🎉 Merged PR [#21](https://github.com/nitishkumar71/cto_staging_test/pull/21) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-4. 🎉 Merged PR [#22](https://github.com/nitishkumar71/cto_staging_test/pull/22) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-5. 💪 Opened PR [#22](https://github.com/nitishkumar71/cto_staging_test/pull/22) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+1. 🎉 Merged PR [#23](https://github.com/nitishkumar71/cto_staging_test/pull/23) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+2. 💪 Opened PR [#23](https://github.com/nitishkumar71/cto_staging_test/pull/23) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+3. 🗣 Commented on [#976](https://github.com/openfaas/faas-cli/pull/976#issuecomment-1722489119) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
+4. ❗ Opened issue [#977](https://github.com/openfaas/faas-cli/issues/977) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
+5. 🎉 Merged PR [#21](https://github.com/nitishkumar71/cto_staging_test/pull/21) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
