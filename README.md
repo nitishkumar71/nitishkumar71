@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/nitishkumar71/cto_staging_test/pull/24#issuecomment-1726468014) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-2. 🗣 Commented on [#24](https://github.com/nitishkumar71/cto_staging_test/pull/24#issuecomment-1726347185) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-3. 🗣 Commented on [#24](https://github.com/nitishkumar71/cto_staging_test/pull/24#issuecomment-1726285213) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-4. 🗣 Commented on [#24](https://github.com/nitishkumar71/cto_staging_test/pull/24#issuecomment-1726080845) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-5. 🗣 Commented on [#24](https://github.com/nitishkumar71/cto_staging_test/pull/24#issuecomment-1726065762) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+1. 🗣 Commented on [#976](https://github.com/openfaas/faas-cli/pull/976#issuecomment-1728099260) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
+2. 🗣 Commented on [#24](https://github.com/nitishkumar71/cto_staging_test/pull/24#issuecomment-1726468014) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+3. 🗣 Commented on [#24](https://github.com/nitishkumar71/cto_staging_test/pull/24#issuecomment-1726347185) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+4. 🗣 Commented on [#24](https://github.com/nitishkumar71/cto_staging_test/pull/24#issuecomment-1726285213) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+5. 🗣 Commented on [#24](https://github.com/nitishkumar71/cto_staging_test/pull/24#issuecomment-1726080845) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
