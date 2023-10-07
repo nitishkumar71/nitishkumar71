@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/nitishkumar71/cto_test/pull/9) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-2. 🚀 Published release [ v1.5.0 RC1 Pre-release](https://github.com/cto-ai/action/releases/tag/v1.5.0-rc1) in [cto-ai/action](https://github.com/cto-ai/action)
-3. 🎉 Merged PR [#18](https://github.com/cto-ai/action/pull/18) in [cto-ai/action](https://github.com/cto-ai/action)
-4. 💪 Opened PR [#982](https://github.com/openfaas/faas-cli/pull/982) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
-5. ❗ Opened issue [#981](https://github.com/openfaas/faas-cli/issues/981) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
+1. 🗣 Commented on [#9](https://github.com/nitishkumar71/cto_test/pull/9#issuecomment-1751123229) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+2. 🎉 Merged PR [#9](https://github.com/nitishkumar71/cto_test/pull/9) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+3. 💪 Opened PR [#9](https://github.com/nitishkumar71/cto_test/pull/9) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+4. 🚀 Published release [ v1.5.0 RC1 Pre-release](https://github.com/cto-ai/action/releases/tag/v1.5.0-rc1) in [cto-ai/action](https://github.com/cto-ai/action)
+5. 🎉 Merged PR [#18](https://github.com/cto-ai/action/pull/18) in [cto-ai/action](https://github.com/cto-ai/action)
 <!--END_SECTION:activity-->
 
 ### Blog posts
