@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9](https://github.com/nitishkumar71/cto_test/pull/9#issuecomment-1751123229) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-2. 🎉 Merged PR [#9](https://github.com/nitishkumar71/cto_test/pull/9) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-3. 💪 Opened PR [#9](https://github.com/nitishkumar71/cto_test/pull/9) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-4. 🚀 Published release [ v1.5.0 RC1 Pre-release](https://github.com/cto-ai/action/releases/tag/v1.5.0-rc1) in [cto-ai/action](https://github.com/cto-ai/action)
-5. 🎉 Merged PR [#18](https://github.com/cto-ai/action/pull/18) in [cto-ai/action](https://github.com/cto-ai/action)
+1. 🗣 Commented on [#1815](https://github.com/openfaas/faas/issues/1815#issuecomment-1752748438) in [openfaas/faas](https://github.com/openfaas/faas)
+2. 💪 Opened PR [#987](https://github.com/alexellis/arkade/pull/987) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❗ Opened issue [#986](https://github.com/alexellis/arkade/issues/986) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. 🗣 Commented on [#9](https://github.com/nitishkumar71/cto_test/pull/9#issuecomment-1751123229) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+5. 🎉 Merged PR [#9](https://github.com/nitishkumar71/cto_test/pull/9) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
