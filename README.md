@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.5](https://github.com/cto-ai/action/releases/tag/v1.5) in [cto-ai/action](https://github.com/cto-ai/action)
-2. 💪 Opened PR [#1816](https://github.com/openfaas/faas/pull/1816) in [openfaas/faas](https://github.com/openfaas/faas)
-3. 🗣 Commented on [#1815](https://github.com/openfaas/faas/issues/1815#issuecomment-1752748438) in [openfaas/faas](https://github.com/openfaas/faas)
-4. 💪 Opened PR [#987](https://github.com/alexellis/arkade/pull/987) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. ❗ Opened issue [#986](https://github.com/alexellis/arkade/issues/986) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#1816](https://github.com/openfaas/faas/pull/1816#issuecomment-1757046810) in [openfaas/faas](https://github.com/openfaas/faas)
+2. 🚀 Published release [v1.5](https://github.com/cto-ai/action/releases/tag/v1.5) in [cto-ai/action](https://github.com/cto-ai/action)
+3. 💪 Opened PR [#1816](https://github.com/openfaas/faas/pull/1816) in [openfaas/faas](https://github.com/openfaas/faas)
+4. 🗣 Commented on [#1815](https://github.com/openfaas/faas/issues/1815#issuecomment-1752748438) in [openfaas/faas](https://github.com/openfaas/faas)
+5. 💪 Opened PR [#987](https://github.com/alexellis/arkade/pull/987) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
