@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/nitishkumar71/cto_staging_test/pull/29#issuecomment-1770996829) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-2. 🗣 Commented on [#29](https://github.com/nitishkumar71/cto_staging_test/pull/29#issuecomment-1770767334) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-3. 🗣 Commented on [#29](https://github.com/nitishkumar71/cto_staging_test/pull/29#issuecomment-1770673108) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-4. 🗣 Commented on [#29](https://github.com/nitishkumar71/cto_staging_test/pull/29#issuecomment-1769224305) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-5. 🗣 Commented on [#29](https://github.com/nitishkumar71/cto_staging_test/pull/29#issuecomment-1769213386) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+1. 💪 Opened PR [#346](https://github.com/openfaas/faasd/pull/346) in [openfaas/faasd](https://github.com/openfaas/faasd)
+2. ❗ Opened issue [#345](https://github.com/openfaas/faasd/issues/345) in [openfaas/faasd](https://github.com/openfaas/faasd)
+3. 🗣 Commented on [#344](https://github.com/openfaas/faasd/issues/344#issuecomment-1774029185) in [openfaas/faasd](https://github.com/openfaas/faasd)
+4. 🗣 Commented on [#29](https://github.com/nitishkumar71/cto_staging_test/pull/29#issuecomment-1770996829) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+5. 🗣 Commented on [#29](https://github.com/nitishkumar71/cto_staging_test/pull/29#issuecomment-1770767334) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
