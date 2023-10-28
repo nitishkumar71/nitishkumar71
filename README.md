@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/nitishkumar71/cto_staging_test/pull/30#issuecomment-1781556845) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-2. 💪 Opened PR [#69](https://github.com/openfaas/ingress-operator/pull/69) in [openfaas/ingress-operator](https://github.com/openfaas/ingress-operator)
-3. 🗣 Commented on [#30](https://github.com/nitishkumar71/cto_staging_test/pull/30#issuecomment-1778928748) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-4. 🗣 Commented on [#30](https://github.com/nitishkumar71/cto_staging_test/pull/30#issuecomment-1778679673) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-5. 🗣 Commented on [#30](https://github.com/nitishkumar71/cto_staging_test/pull/30#issuecomment-1777932802) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+1. 🗣 Commented on [#13](https://github.com/nitishkumar71/cto_test/pull/13#issuecomment-1783524975) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+2. 🎉 Merged PR [#13](https://github.com/nitishkumar71/cto_test/pull/13) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+3. 💪 Opened PR [#13](https://github.com/nitishkumar71/cto_test/pull/13) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+4. ❌ Closed PR [#12](https://github.com/nitishkumar71/cto_test/pull/12) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+5. 💪 Opened PR [#12](https://github.com/nitishkumar71/cto_test/pull/12) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
