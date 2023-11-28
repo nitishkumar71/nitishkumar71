@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#20](https://github.com/openfaas/go-sdk/pull/20) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
-2. ❗ Opened issue [#19](https://github.com/openfaas/go-sdk/issues/19) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
-3. 💪 Opened PR [#989](https://github.com/openfaas/faas-cli/pull/989) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
-4. ❗ Opened issue [#988](https://github.com/openfaas/faas-cli/issues/988) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
-5. 🗣 Commented on [#67](https://github.com/openfaas/ingress-operator/issues/67#issuecomment-1812889583) in [openfaas/ingress-operator](https://github.com/openfaas/ingress-operator)
+1. ❗ Opened issue [#351](https://github.com/openfaas/faasd/issues/351) in [openfaas/faasd](https://github.com/openfaas/faasd)
+2. 💪 Opened PR [#20](https://github.com/openfaas/go-sdk/pull/20) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
+3. ❗ Opened issue [#19](https://github.com/openfaas/go-sdk/issues/19) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
+4. 💪 Opened PR [#989](https://github.com/openfaas/faas-cli/pull/989) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
+5. ❗ Opened issue [#988](https://github.com/openfaas/faas-cli/issues/988) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
 <!--END_SECTION:activity-->
 
 ### Blog posts
