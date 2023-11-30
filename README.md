@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#352](https://github.com/openfaas/faasd/pull/352) in [openfaas/faasd](https://github.com/openfaas/faasd)
-2. ❗ Opened issue [#351](https://github.com/openfaas/faasd/issues/351) in [openfaas/faasd](https://github.com/openfaas/faasd)
-3. 💪 Opened PR [#20](https://github.com/openfaas/go-sdk/pull/20) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
-4. ❗ Opened issue [#19](https://github.com/openfaas/go-sdk/issues/19) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
-5. 💪 Opened PR [#989](https://github.com/openfaas/faas-cli/pull/989) in [openfaas/faas-cli](https://github.com/openfaas/faas-cli)
+1. 🗣 Commented on [#20](https://github.com/openfaas/go-sdk/pull/20#issuecomment-1832369614) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
+2. 💪 Opened PR [#352](https://github.com/openfaas/faasd/pull/352) in [openfaas/faasd](https://github.com/openfaas/faasd)
+3. ❗ Opened issue [#351](https://github.com/openfaas/faasd/issues/351) in [openfaas/faasd](https://github.com/openfaas/faasd)
+4. 💪 Opened PR [#20](https://github.com/openfaas/go-sdk/pull/20) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
+5. ❗ Opened issue [#19](https://github.com/openfaas/go-sdk/issues/19) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
 <!--END_SECTION:activity-->
 
 ### Blog posts
