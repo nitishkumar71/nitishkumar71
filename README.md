@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/nitishkumar71/cto_staging_test/pull/32) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-2. 🎉 Merged PR [#31](https://github.com/nitishkumar71/cto_staging_test/pull/31) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-3. 💪 Opened PR [#31](https://github.com/nitishkumar71/cto_staging_test/pull/31) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-4. 🗣 Commented on [#353](https://github.com/openfaas/faasd/issues/353#issuecomment-1880146882) in [openfaas/faasd](https://github.com/openfaas/faasd)
-5. 🗣 Commented on [#353](https://github.com/openfaas/faasd/issues/353#issuecomment-1880009593) in [openfaas/faasd](https://github.com/openfaas/faasd)
+1. 💪 Opened PR [#24](https://github.com/openfaas/go-sdk/pull/24) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
+2. 💪 Opened PR [#32](https://github.com/nitishkumar71/cto_staging_test/pull/32) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+3. 🎉 Merged PR [#31](https://github.com/nitishkumar71/cto_staging_test/pull/31) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+4. 💪 Opened PR [#31](https://github.com/nitishkumar71/cto_staging_test/pull/31) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+5. 🗣 Commented on [#353](https://github.com/openfaas/faasd/issues/353#issuecomment-1880146882) in [openfaas/faasd](https://github.com/openfaas/faasd)
 <!--END_SECTION:activity-->
 
 ### Blog posts
