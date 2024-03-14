@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/nitishkumar71/cto_staging_test/pull/33) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-2. 🗣 Commented on [#27](https://github.com/openfaas/go-sdk/pull/27#issuecomment-1957344055) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
-3. 🗣 Commented on [#27](https://github.com/openfaas/go-sdk/pull/27#issuecomment-1954099916) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
-4. 🗣 Commented on [#353](https://github.com/openfaas/faasd/issues/353#issuecomment-1951359850) in [openfaas/faasd](https://github.com/openfaas/faasd)
-5. 💪 Opened PR [#27](https://github.com/openfaas/go-sdk/pull/27) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
+1. 🎉 Merged PR [#33](https://github.com/nitishkumar71/cto_staging_test/pull/33) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+2. 💪 Opened PR [#33](https://github.com/nitishkumar71/cto_staging_test/pull/33) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+3. 🗣 Commented on [#27](https://github.com/openfaas/go-sdk/pull/27#issuecomment-1957344055) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
+4. 🗣 Commented on [#27](https://github.com/openfaas/go-sdk/pull/27#issuecomment-1954099916) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
+5. 🗣 Commented on [#353](https://github.com/openfaas/faasd/issues/353#issuecomment-1951359850) in [openfaas/faasd](https://github.com/openfaas/faasd)
 <!--END_SECTION:activity-->
 
 ### Blog posts
