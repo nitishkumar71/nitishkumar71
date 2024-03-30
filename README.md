@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1045](https://github.com/alexellis/arkade/pull/1045) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. ❌ Closed PR [#987](https://github.com/alexellis/arkade/pull/987) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. 🎉 Merged PR [#33](https://github.com/nitishkumar71/cto_staging_test/pull/33) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-4. 💪 Opened PR [#33](https://github.com/nitishkumar71/cto_staging_test/pull/33) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-5. 🗣 Commented on [#27](https://github.com/openfaas/go-sdk/pull/27#issuecomment-1957344055) in [openfaas/go-sdk](https://github.com/openfaas/go-sdk)
+1. ❗ Opened issue [#1051](https://github.com/alexellis/arkade/issues/1051) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. 🔒 Closed issue [#360](https://github.com/openfaas/faasd/issues/360) in [openfaas/faasd](https://github.com/openfaas/faasd)
+3. 💪 Opened PR [#1050](https://github.com/alexellis/arkade/pull/1050) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. ❗ Opened issue [#360](https://github.com/openfaas/faasd/issues/360) in [openfaas/faasd](https://github.com/openfaas/faasd)
+5. 💪 Opened PR [#1045](https://github.com/alexellis/arkade/pull/1045) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
