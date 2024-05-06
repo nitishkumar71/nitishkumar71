@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#40](https://github.com/nitishkumar71/cto_staging_test/pull/40) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-2. 💪 Opened PR [#41](https://github.com/nitishkumar71/cto_staging_test/pull/41) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-3. 💪 Opened PR [#40](https://github.com/nitishkumar71/cto_staging_test/pull/40) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-4. ❌ Closed PR [#34](https://github.com/nitishkumar71/cto_staging_test/pull/34) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-5. ❌ Closed PR [#35](https://github.com/nitishkumar71/cto_staging_test/pull/35) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+1. 💪 Opened PR [#42](https://github.com/nitishkumar71/cto_staging_test/pull/42) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+2. ❌ Closed PR [#41](https://github.com/nitishkumar71/cto_staging_test/pull/41) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+3. ❌ Closed PR [#40](https://github.com/nitishkumar71/cto_staging_test/pull/40) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+4. 💪 Opened PR [#41](https://github.com/nitishkumar71/cto_staging_test/pull/41) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+5. 💪 Opened PR [#40](https://github.com/nitishkumar71/cto_staging_test/pull/40) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
