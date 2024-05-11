@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/nitishkumar71/cto_staging_test/pull/44) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-2. 💪 Opened PR [#16](https://github.com/nitishkumar71/cto_test/pull/16) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-3. 💪 Opened PR [#43](https://github.com/nitishkumar71/cto_staging_test/pull/43) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-4. 💪 Opened PR [#15](https://github.com/nitishkumar71/cto_test/pull/15) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-5. 💪 Opened PR [#14](https://github.com/nitishkumar71/cto_test/pull/14) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+1. 💪 Opened PR [#1068](https://github.com/alexellis/arkade/pull/1068) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. ❗ Opened issue [#1067](https://github.com/alexellis/arkade/issues/1067) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 💪 Opened PR [#44](https://github.com/nitishkumar71/cto_staging_test/pull/44) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+4. 💪 Opened PR [#16](https://github.com/nitishkumar71/cto_test/pull/16) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+5. 💪 Opened PR [#43](https://github.com/nitishkumar71/cto_staging_test/pull/43) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
