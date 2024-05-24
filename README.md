@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1068](https://github.com/alexellis/arkade/pull/1068#issuecomment-2120420464) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. 💪 Opened PR [#1070](https://github.com/alexellis/arkade/pull/1070) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. ❗ Opened issue [#1069](https://github.com/alexellis/arkade/issues/1069) in [alexellis/arkade](https://github.com/alexellis/arkade)
-4. 💪 Opened PR [#1068](https://github.com/alexellis/arkade/pull/1068) in [alexellis/arkade](https://github.com/alexellis/arkade)
-5. ❗ Opened issue [#1067](https://github.com/alexellis/arkade/issues/1067) in [alexellis/arkade](https://github.com/alexellis/arkade)
+1. 🗣 Commented on [#18952](https://github.com/kubernetes/minikube/issues/18952#issuecomment-2128159733) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+2. ❗ Opened issue [#18952](https://github.com/kubernetes/minikube/issues/18952) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+3. 🗣 Commented on [#1840](https://github.com/openfaas/faas/issues/1840#issuecomment-2127179404) in [openfaas/faas](https://github.com/openfaas/faas)
+4. 🗣 Commented on [#1068](https://github.com/alexellis/arkade/pull/1068#issuecomment-2120420464) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. 💪 Opened PR [#1070](https://github.com/alexellis/arkade/pull/1070) in [alexellis/arkade](https://github.com/alexellis/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
