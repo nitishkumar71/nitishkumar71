@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1095](https://github.com/alexellis/arkade/pull/1095) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. ❗ Opened issue [#1094](https://github.com/alexellis/arkade/issues/1094) in [alexellis/arkade](https://github.com/alexellis/arkade)
-3. ❌ Closed PR [#44](https://github.com/nitishkumar71/cto_staging_test/pull/44) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-4. ❌ Closed PR [#16](https://github.com/nitishkumar71/cto_test/pull/16) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-5. ❌ Closed PR [#43](https://github.com/nitishkumar71/cto_staging_test/pull/43) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+1. 💪 Opened PR [#1097](https://github.com/alexellis/arkade/pull/1097) in [alexellis/arkade](https://github.com/alexellis/arkade)
+2. ❗ Opened issue [#1096](https://github.com/alexellis/arkade/issues/1096) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. 💪 Opened PR [#1095](https://github.com/alexellis/arkade/pull/1095) in [alexellis/arkade](https://github.com/alexellis/arkade)
+4. ❗ Opened issue [#1094](https://github.com/alexellis/arkade/issues/1094) in [alexellis/arkade](https://github.com/alexellis/arkade)
+5. ❌ Closed PR [#44](https://github.com/nitishkumar71/cto_staging_test/pull/44) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
