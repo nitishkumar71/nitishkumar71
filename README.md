@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1095](https://github.com/alexellis/arkade/pull/1095#issuecomment-2241190930) in [alexellis/arkade](https://github.com/alexellis/arkade)
-2. ❌ Closed PR [#25](https://github.com/nitishkumar71/arkade/pull/25) in [nitishkumar71/arkade](https://github.com/nitishkumar71/arkade)
-3. ❌ Closed PR [#28](https://github.com/nitishkumar71/arkade/pull/28) in [nitishkumar71/arkade](https://github.com/nitishkumar71/arkade)
-4. ❌ Closed PR [#29](https://github.com/nitishkumar71/arkade/pull/29) in [nitishkumar71/arkade](https://github.com/nitishkumar71/arkade)
-5. ❌ Closed PR [#30](https://github.com/nitishkumar71/arkade/pull/30) in [nitishkumar71/arkade](https://github.com/nitishkumar71/arkade)
+1. 💪 Opened PR [#30](https://github.com/workflows-sh/do-k8s-cdktf/pull/30) in [workflows-sh/do-k8s-cdktf](https://github.com/workflows-sh/do-k8s-cdktf)
+2. 🗣 Commented on [#1095](https://github.com/alexellis/arkade/pull/1095#issuecomment-2241190930) in [alexellis/arkade](https://github.com/alexellis/arkade)
+3. ❌ Closed PR [#25](https://github.com/nitishkumar71/arkade/pull/25) in [nitishkumar71/arkade](https://github.com/nitishkumar71/arkade)
+4. ❌ Closed PR [#28](https://github.com/nitishkumar71/arkade/pull/28) in [nitishkumar71/arkade](https://github.com/nitishkumar71/arkade)
+5. ❌ Closed PR [#29](https://github.com/nitishkumar71/arkade/pull/29) in [nitishkumar71/arkade](https://github.com/nitishkumar71/arkade)
 <!--END_SECTION:activity-->
 
 ### Blog posts
