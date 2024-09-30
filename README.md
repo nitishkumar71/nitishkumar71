@@ -14,11 +14,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/workflows-sh/aws-eks-ec2-asg-cdk/pull/30) in [workflows-sh/aws-eks-ec2-asg-cdk](https://github.com/workflows-sh/aws-eks-ec2-asg-cdk)
-2. 🎉 Merged PR [#31](https://github.com/workflows-sh/do-k8s-cdktf/pull/31) in [workflows-sh/do-k8s-cdktf](https://github.com/workflows-sh/do-k8s-cdktf)
-3. 💪 Opened PR [#31](https://github.com/workflows-sh/do-k8s-cdktf/pull/31) in [workflows-sh/do-k8s-cdktf](https://github.com/workflows-sh/do-k8s-cdktf)
-4. 🎉 Merged PR [#31](https://github.com/workflows-sh/aws-eks-ec2-asg-cdk/pull/31) in [workflows-sh/aws-eks-ec2-asg-cdk](https://github.com/workflows-sh/aws-eks-ec2-asg-cdk)
-5. 🎉 Merged PR [#30](https://github.com/workflows-sh/do-k8s-cdktf/pull/30) in [workflows-sh/do-k8s-cdktf](https://github.com/workflows-sh/do-k8s-cdktf)
+1. ❌ Closed PR [#74](https://github.com/openfaas/faas-swarm/pull/74) in [openfaas/faas-swarm](https://github.com/openfaas/faas-swarm)
+2. 🎉 Merged PR [#30](https://github.com/workflows-sh/aws-eks-ec2-asg-cdk/pull/30) in [workflows-sh/aws-eks-ec2-asg-cdk](https://github.com/workflows-sh/aws-eks-ec2-asg-cdk)
+3. 🎉 Merged PR [#31](https://github.com/workflows-sh/do-k8s-cdktf/pull/31) in [workflows-sh/do-k8s-cdktf](https://github.com/workflows-sh/do-k8s-cdktf)
+4. 💪 Opened PR [#31](https://github.com/workflows-sh/do-k8s-cdktf/pull/31) in [workflows-sh/do-k8s-cdktf](https://github.com/workflows-sh/do-k8s-cdktf)
+5. 🎉 Merged PR [#31](https://github.com/workflows-sh/aws-eks-ec2-asg-cdk/pull/31) in [workflows-sh/aws-eks-ec2-asg-cdk](https://github.com/workflows-sh/aws-eks-ec2-asg-cdk)
 <!--END_SECTION:activity-->
 
 ### Blog posts
