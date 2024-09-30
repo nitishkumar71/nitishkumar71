@@ -9,7 +9,7 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 ### :octocat: Github Statistics
 <p align="left">
 <img  src="https://github-readme-stats.vercel.app/api?username=nitishkumar71&show_icons=true&theme=radical" alt="Nitishkumar Singh" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishkumar71&exclude_repo=blog.nitishkumarsingh.xyz,blog&layout=compact&hide=html&theme=radical&langs_count=10" alt="Nitishkumar Singh"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishkumar71&exclude_repo=blog,blog.nitishkumarsingh.xyz,StudentListDemo-Ionic1,Ionic2-Searchbar-Observable,AngularWebpackStarter,Angular4NetMvc&layout=compact&hide=html,css,javascript,c%23&theme=radical&langs_count=10" alt="Nitishkumar Singh"/>
 </p>
 
 ### Github Activity
