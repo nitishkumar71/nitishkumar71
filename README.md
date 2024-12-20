@@ -16,11 +16,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#20117](https://github.com/kubernetes/minikube/issues/20117) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-2. ❌ Reopened PR [#45](https://github.com/nitishkumar71/cto_staging_test/pull/45) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-3. ❌ Closed PR [#45](https://github.com/nitishkumar71/cto_staging_test/pull/45) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
-4. ❌ Closed PR [#74](https://github.com/openfaas/faas-swarm/pull/74) in [openfaas/faas-swarm](https://github.com/openfaas/faas-swarm)
-5. 🎉 Merged PR [#31](https://github.com/workflows-sh/aws-eks-ec2-asg-cdk/pull/31) in [workflows-sh/aws-eks-ec2-asg-cdk](https://github.com/workflows-sh/aws-eks-ec2-asg-cdk)
+1. 💪 Opened PR [#18](https://github.com/nitishkumar71/cto_test/pull/18) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+2. ❌ Closed PR [#17](https://github.com/nitishkumar71/cto_test/pull/17) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+3. ❗ Opened issue [#20117](https://github.com/kubernetes/minikube/issues/20117) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
+4. ❌ Reopened PR [#45](https://github.com/nitishkumar71/cto_staging_test/pull/45) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+5. ❌ Closed PR [#45](https://github.com/nitishkumar71/cto_staging_test/pull/45) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
