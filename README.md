@@ -34,11 +34,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### StackOverflow Activity
 <!-- STACKOVERFLOW:START -->
+- [clickhouse-kafka-connect is not working in self hosted setup](https://stackoverflow.com/questions/79354807/clickhouse-kafka-connect-is-not-working-in-self-hosted-setup)
 - [Answer by Nitishkumar Singh for kubernetes use subpath and hostPath DirectoryOrCreate,but can not create dir](https://stackoverflow.com/questions/68935563/kubernetes-use-subpath-and-hostpath-directoryorcreate-but-can-not-create-dir/68936237#68936237)
 - [Answer by Nitishkumar Singh for Cannot run slick queries on postgis with slick-pg](https://stackoverflow.com/questions/63637096/cannot-run-slick-queries-on-postgis-with-slick-pg/64260108#64260108)
 - [Answer by Nitishkumar Singh for How do I setup rust toolchain for orjson python library build in an alpine docker image?](https://stackoverflow.com/questions/62207959/how-do-i-setup-rust-toolchain-for-orjson-python-library-build-in-an-alpine-docke/62400444#62400444)
 - [Answer by Nitishkumar Singh for Spring cloud gateway configuration issue in Kubernetes service discovery](https://stackoverflow.com/questions/58366684/spring-cloud-gateway-configuration-issue-in-kubernetes-service-discovery/58470819#58470819)
-- [Spring cloud gateway configuration issue in Kubernetes service discovery](https://stackoverflow.com/questions/58366684/spring-cloud-gateway-configuration-issue-in-kubernetes-service-discovery)
 <!-- STACKOVERFLOW:END -->
 
 ### Connect With Me
