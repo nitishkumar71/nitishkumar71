@@ -16,11 +16,11 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#781](https://github.com/confluentinc/kafka-connect-storage-cloud/issues/781#issuecomment-2591093328) in [confluentinc/kafka-connect-storage-cloud](https://github.com/confluentinc/kafka-connect-storage-cloud)
-2. 💪 Opened PR [#18](https://github.com/nitishkumar71/cto_test/pull/18) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-3. ❌ Closed PR [#17](https://github.com/nitishkumar71/cto_test/pull/17) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
-4. ❗ Opened issue [#20117](https://github.com/kubernetes/minikube/issues/20117) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-5. ❌ Reopened PR [#45](https://github.com/nitishkumar71/cto_staging_test/pull/45) in [nitishkumar71/cto_staging_test](https://github.com/nitishkumar71/cto_staging_test)
+1. 🗣 Commented on [#1619](https://github.com/Altinity/clickhouse-operator/issues/1619#issuecomment-2602224168) in [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator)
+2. 🔒 Closed issue [#1619](https://github.com/Altinity/clickhouse-operator/issues/1619) in [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator)
+3. 🗣 Commented on [#781](https://github.com/confluentinc/kafka-connect-storage-cloud/issues/781#issuecomment-2591093328) in [confluentinc/kafka-connect-storage-cloud](https://github.com/confluentinc/kafka-connect-storage-cloud)
+4. 💪 Opened PR [#18](https://github.com/nitishkumar71/cto_test/pull/18) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+5. ❌ Closed PR [#17](https://github.com/nitishkumar71/cto_test/pull/17) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
 <!--END_SECTION:activity-->
 
 ### Blog posts
