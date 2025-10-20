@@ -16,8 +16,8 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21547](https://github.com/kubernetes/minikube/issues/21547#issuecomment-3324801174) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
-2. 🗣 Commented on [#18](https://github.com/nitishkumar71/cto_test/pull/18#issuecomment-3259262915) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
+1. 🗣 Commented on [#175](https://github.com/kube-rs/gateway-api-rs/issues/175#issuecomment-3420748040) in [kube-rs/gateway-api-rs](https://github.com/kube-rs/gateway-api-rs)
+2. 🗣 Commented on [#21547](https://github.com/kubernetes/minikube/issues/21547#issuecomment-3324801174) in [kubernetes/minikube](https://github.com/kubernetes/minikube)
 3. 🎉 Merged PR [#18](https://github.com/nitishkumar71/cto_test/pull/18) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
 4. 🗣 Commented on [#18](https://github.com/nitishkumar71/cto_test/pull/18#issuecomment-3259259212) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
 5. 💪 Opened PR [#18](https://github.com/nitishkumar71/cto_test/pull/18) in [nitishkumar71/cto_test](https://github.com/nitishkumar71/cto_test)
