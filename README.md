@@ -16,9 +16,9 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#282](https://github.com/kube-rs/kopium/issues/282#issuecomment-3972203443) in [kube-rs/kopium](https://github.com/kube-rs/kopium)
-2. 🗣 Commented on [#28470](https://github.com/keybase/client/issues/28470#issuecomment-3833841730) in [keybase/client](https://github.com/keybase/client)
-3. 🗣 Commented on [#204](https://github.com/kube-rs/gateway-api-rs/pull/204#issuecomment-3824713636) in [kube-rs/gateway-api-rs](https://github.com/kube-rs/gateway-api-rs)
+1. 💪 Opened PR [#434](https://github.com/kube-rs/kopium/pull/434) in [kube-rs/kopium](https://github.com/kube-rs/kopium)
+2. 🗣 Commented on [#282](https://github.com/kube-rs/kopium/issues/282#issuecomment-3972203443) in [kube-rs/kopium](https://github.com/kube-rs/kopium)
+3. 🗣 Commented on [#28470](https://github.com/keybase/client/issues/28470#issuecomment-3833841730) in [keybase/client](https://github.com/keybase/client)
 4. 🗣 Commented on [#204](https://github.com/kube-rs/gateway-api-rs/pull/204#issuecomment-3755275248) in [kube-rs/gateway-api-rs](https://github.com/kube-rs/gateway-api-rs)
 5. 🗣 Commented on [#204](https://github.com/kube-rs/gateway-api-rs/pull/204#issuecomment-3754413065) in [kube-rs/gateway-api-rs](https://github.com/kube-rs/gateway-api-rs)
 <!--END_SECTION:activity-->
