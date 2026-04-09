@@ -16,8 +16,8 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 
 ### Github Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#434](https://github.com/kube-rs/kopium/pull/434) in [kube-rs/kopium](https://github.com/kube-rs/kopium)
-2. 🗣 Commented on [#434](https://github.com/kube-rs/kopium/pull/434#issuecomment-4011653233) in [kube-rs/kopium](https://github.com/kube-rs/kopium)
+1. ℹ️ Reopened PR [#16](https://github.com/cto-ai/examples/pull/16) in [cto-ai/examples](https://github.com/cto-ai/examples)
+2. ❌ Closed PR [#16](https://github.com/cto-ai/examples/pull/16) in [cto-ai/examples](https://github.com/cto-ai/examples)
 3. 💪 Opened PR [#434](https://github.com/kube-rs/kopium/pull/434) in [kube-rs/kopium](https://github.com/kube-rs/kopium)
 4. 🗣 Commented on [#282](https://github.com/kube-rs/kopium/issues/282#issuecomment-3972203443) in [kube-rs/kopium](https://github.com/kube-rs/kopium)
 5. 🗣 Commented on [#204](https://github.com/kube-rs/gateway-api-rs/pull/204#issuecomment-3754413065) in [kube-rs/gateway-api-rs](https://github.com/kube-rs/gateway-api-rs)
