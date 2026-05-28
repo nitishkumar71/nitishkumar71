@@ -1,0 +1,37 @@
+name: Update Org Contributions
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # Runs every 12 hour, on the hour
+  workflow_dispatch:
+
+jobs:
+  update-org-contributions:
+    runs-on: ubuntu-latest
+    name: Fetch org contributions and update README
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update org contributions in README
+        env:
+          # Create a PAT with read:user and read:org scopes and add it as a
+          # repository secret named GH_PAT
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: python .github/scripts/update_org_contributions.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m ":zap: Update org contributions"
+          git push

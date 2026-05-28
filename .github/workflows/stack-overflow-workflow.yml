@@ -2,6 +2,7 @@ name: Latest stack overflow activity
 on:
   schedule:
     - cron: '0 */12 * * *' # Runs every 12 hour, on the hour
+  workflow_dispatch:
 
 jobs:
   update-readme-with-stack-overflow:

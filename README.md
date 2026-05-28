@@ -1,20 +1,133 @@
+<div align="center">
 
-Hi, I'm Nitishkumar Singh a software engineer from India.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=F85D7F&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Nitishkumar+Singh+%F0%9F%91%8B;Software+Engineer+%7C+Open+Source+Contributor;Go+%7C+Rust+%7C+Cloud+Native+%7C+Distributed+Systems" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nitishkumarsingh71/)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Nitishkumar071)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=rss&logoColor=white)](https://blog.nitishkumarsingh.xyz)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/1825578)
+
+</div>
+
+---
 
 ### 🧰 Languages and Tools
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center;">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=golang,rust,kubernetes,terraform,aws,gcp,digitalocean,docker,bash,python,typescript,scala,spring,django,jenkins,spark,flink"/>
+</div>
 
+---
 
-<p align="left"><img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="go" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" alt="rust" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/python/python-official.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="apache spark" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_flink/apache_flink-icon.svg" alt="flink" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="40" height="40"/>
+### 🤝 Open Source Contributions
+
+<!-- ORG-CONTRIBUTIONS:START -->
+<table>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/kube-rs">
+        <img src="https://avatars.githubusercontent.com/u/87537212?v=4&s=80" width="60px" alt="kube-rs"/><br/>
+        <b>kube-rs</b>
+      </a><br/>
+      <sub>🔀 2 &nbsp; 📝 2 &nbsp; 🐛 0</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/metal3-io">
+        <img src="https://avatars.githubusercontent.com/u/49879880?v=4&s=80" width="60px" alt="metal3-io"/><br/>
+        <b>metal3-io</b>
+      </a><br/>
+      <sub>🔀 0 &nbsp; 📝 0 &nbsp; 🐛 1</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/Altinity">
+        <img src="https://avatars.githubusercontent.com/u/28471076?v=4&s=80" width="60px" alt="Altinity"/><br/>
+        <b>Altinity</b>
+      </a><br/>
+      <sub>🔀 0 &nbsp; 📝 0 &nbsp; 🐛 1</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/kubernetes">
+        <img src="https://avatars.githubusercontent.com/u/13629408?v=4&s=80" width="60px" alt="kubernetes"/><br/>
+        <b>kubernetes</b>
+      </a><br/>
+      <sub>🔀 1 &nbsp; 📝 0 &nbsp; 🐛 3</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/workflows-sh">
+        <img src="https://avatars.githubusercontent.com/u/94403526?v=4&s=80" width="60px" alt="workflows-sh"/><br/>
+        <b>workflows-sh</b>
+      </a><br/>
+      <sub>🔀 5 &nbsp; 📝 4 &nbsp; 🐛 0</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/openfaas">
+        <img src="https://avatars.githubusercontent.com/u/27013154?v=4&s=80" width="60px" alt="openfaas"/><br/>
+        <b>openfaas</b>
+      </a><br/>
+      <sub>🔀 62 &nbsp; 📝 58 &nbsp; 🐛 33</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/cto-ai">
+        <img src="https://avatars.githubusercontent.com/u/24818136?v=4&s=80" width="60px" alt="cto-ai"/><br/>
+        <b>cto-ai</b>
+      </a><br/>
+      <sub>🔀 9 &nbsp; 📝 9 &nbsp; 🐛 0</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/spring-cloud">
+        <img src="https://avatars.githubusercontent.com/u/7815877?v=4&s=80" width="60px" alt="spring-cloud"/><br/>
+        <b>spring-cloud</b>
+      </a><br/>
+      <sub>🔀 0 &nbsp; 📝 0 &nbsp; 🐛 1</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <a href="https://github.com/angular-ui">
+        <img src="https://avatars.githubusercontent.com/u/1530011?v=4&s=80" width="60px" alt="angular-ui"/><br/>
+        <b>angular-ui</b>
+      </a><br/>
+      <sub>🔀 0 &nbsp; 📝 0 &nbsp; 🐛 2</sub>
+    </td>
+    <td align="center" width="160">
+      <a href="https://github.com/uikit">
+        <img src="https://avatars.githubusercontent.com/u/4173184?v=4&s=80" width="60px" alt="uikit"/><br/>
+        <b>uikit</b>
+      </a><br/>
+      <sub>🔀 0 &nbsp; 📝 0 &nbsp; 🐛 1</sub>
+    </td>
+  </tr>
+</table>
+
+<sub>🔀 Pull Requests &nbsp;&nbsp; 📝 Commits &nbsp;&nbsp; 🐛 Issues &nbsp;&nbsp; (all time, public organizations only)</sub>
+
+<!-- ORG-CONTRIBUTIONS:END -->
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nitishkumar71&theme=radical" alt="Profile Details" width="900"/>
 </p>
 
-
-### :octocat: Github Statistics
-<p align="left">
-<img  src="https://github-readme-stats.vercel.app/api?username=nitishkumar71&show_icons=true&theme=radical" alt="Nitishkumar Singh" width="480" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishkumar71&exclude_repo=blog,blog.nitishkumarsingh.xyz,StudentListDemo-Ionic1,Ionic2-Searchbar-Observable,AngularWebpackStarter,Angular4NetMvc&layout=compact&hide=html,css,javascript,c%23&theme=radical&langs_count=10" alt="Nitishkumar Singh"/>
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nitishkumar71&theme=radical" alt="Stats" width="290"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitishkumar71&theme=radical" alt="Repos Per Language" width="290"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitishkumar71&theme=radical" alt="Most Commit Language" width="290"/>
 </p>
 
-### Github Activity
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=nitishkumar71&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📈 GitHub Activity
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27](https://github.com/ClickHouse/librechat-admin-panel/issues/27#issuecomment-4372073603) in [ClickHouse/librechat-admin-panel](https://github.com/ClickHouse/librechat-admin-panel)
 2. ℹ️ Reopened PR [#16](https://github.com/cto-ai/examples/pull/16) in [cto-ai/examples](https://github.com/cto-ai/examples)
@@ -23,7 +136,10 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 5. 🗣 Commented on [#204](https://github.com/kube-rs/gateway-api-rs/pull/204#issuecomment-3754413065) in [kube-rs/gateway-api-rs](https://github.com/kube-rs/gateway-api-rs)
 <!--END_SECTION:activity-->
 
-### Blog posts
+---
+
+### ✍️ Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Instrument Go applications using OpenTelemetry](https://blog.nitishkumarsingh.xyz/2023-05-22-instrument-go-applications-using-opentelemetry/)
 - [Build Console Application in Golang](https://blog.nitishkumarsingh.xyz/2020-10-03-build-console-application-in-golang/)
@@ -32,7 +148,10 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 - [Service Discovery in microservices](https://blog.nitishkumarsingh.xyz/2019-10-07-service-discvery-in-microservices/)
 <!-- BLOG-POST-LIST:END -->
 
-### StackOverflow Activity
+---
+
+### 💡 StackOverflow Activity
+
 <!-- STACKOVERFLOW:START -->
 - [Answer by Nitishkumar Singh for clickhouse-kafka-connect is not working in self hosted setup](https://stackoverflow.com/questions/79354807/clickhouse-kafka-connect-is-not-working-in-self-hosted-setup/79365470#79365470)
 - [clickhouse-kafka-connect is not working in self hosted setup](https://stackoverflow.com/questions/79354807/clickhouse-kafka-connect-is-not-working-in-self-hosted-setup)
@@ -41,6 +160,12 @@ Hi, I'm Nitishkumar Singh a software engineer from India.
 - [Answer by Nitishkumar Singh for How do I setup rust toolchain for orjson python library build in an alpine docker image?](https://stackoverflow.com/questions/62207959/how-do-i-setup-rust-toolchain-for-orjson-python-library-build-in-an-alpine-docke/62400444#62400444)
 <!-- STACKOVERFLOW:END -->
 
-### Connect With Me
-<a href="https://www.linkedin.com/in/nitishkumarsingh71/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="nitishkumar71" width="20" height="20"/></a>
-<a href="https://twitter.com/Nitishkumar071" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="nitishkumar071" width="20" height="20"/></a>
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nitishkumarsingh71/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30"/></a>
+&nbsp;&nbsp;
+<a href="https://twitter.com/Nitishkumar071" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="Twitter" width="30" height="30"/></a>
+</p>
