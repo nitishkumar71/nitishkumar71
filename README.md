@@ -90,7 +90,7 @@
         <img src="https://avatars.githubusercontent.com/u/1530011?v=4&s=80" width="60px" alt="angular-ui"/><br/>
         <b>angular-ui</b>
       </a><br/>
-      <sub>🔀 0 &nbsp; 📝 0 &nbsp; 🐛 2</sub>
+      <sub>🔀 0 &nbsp; 📝 0 &nbsp; 🐛 1</sub>
     </td>
     <td align="center" width="160">
       <a href="https://github.com/uikit">
