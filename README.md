@@ -129,7 +129,7 @@
 ### 📈 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Reopened PR [#16](https://github.com/cto-ai/examples/pull/16) in [cto-ai/examples](https://github.com/cto-ai/examples)
+1. 🗣 Commented on [#12316](https://github.com/kyverno/kyverno/issues/12316#issuecomment-5809720110) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 2. ❌ Closed PR [#16](https://github.com/cto-ai/examples/pull/16) in [cto-ai/examples](https://github.com/cto-ai/examples)
 3. ℹ️ Reopened PR [#16](https://github.com/cto-ai/examples/pull/16) in [cto-ai/examples](https://github.com/cto-ai/examples)
 4. ❌ Closed PR [#16](https://github.com/cto-ai/examples/pull/16) in [cto-ai/examples](https://github.com/cto-ai/examples)
