@@ -129,8 +129,8 @@
 ### 📈 GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12316](https://github.com/kyverno/kyverno/issues/12316#issuecomment-5809720110) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
-2. ❌ Closed PR [#16](https://github.com/cto-ai/examples/pull/16) in [cto-ai/examples](https://github.com/cto-ai/examples)
+1. 🗣 Commented on [#204](https://github.com/kube-rs/gateway-api-rs/pull/204#issuecomment-5978161774) in [kube-rs/gateway-api-rs](https://github.com/kube-rs/gateway-api-rs)
+2. 🗣 Commented on [#12316](https://github.com/kyverno/kyverno/issues/12316#issuecomment-5809720110) in [kyverno/kyverno](https://github.com/kyverno/kyverno)
 3. ℹ️ Reopened PR [#16](https://github.com/cto-ai/examples/pull/16) in [cto-ai/examples](https://github.com/cto-ai/examples)
 4. ❌ Closed PR [#16](https://github.com/cto-ai/examples/pull/16) in [cto-ai/examples](https://github.com/cto-ai/examples)
 5. 🗣 Commented on [#16](https://github.com/cto-ai/examples/pull/16#issuecomment-5006442647) in [cto-ai/examples](https://github.com/cto-ai/examples)
