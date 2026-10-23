@@ -67,7 +67,7 @@
         <img src="https://avatars.githubusercontent.com/u/27013154?v=4&s=80" width="60px" alt="openfaas"/><br/>
         <b>openfaas</b>
       </a><br/>
-      <sub>🔀 62 &nbsp; 📝 58 &nbsp; 🐛 33</sub>
+      <sub>🔀 61 &nbsp; 📝 58 &nbsp; 🐛 33</sub>
     </td>
     <td align="center" width="160">
       <a href="https://github.com/cto-ai">
